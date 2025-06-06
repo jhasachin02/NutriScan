@@ -3,7 +3,7 @@
 ## Project Overview
 NutriScan is an innovative application designed to empower users to make informed food choices by providing instant access to accurate nutritional information. Whether you're grocery shopping, dining out, or preparing meals at home, NutriScan offers a convenient and intuitive solution to track and understand your nutritional intake.
 
-Demo
+## Demo
 Watch the NutriScan demo [https://drive.google.com/file/d/1wAJN9EcTn-O4k42RpUQeAhxlC8OVLo5V/view?usp=drive_link].
 
 ## Features
