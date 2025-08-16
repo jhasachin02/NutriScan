@@ -1,0 +1,29 @@
+# Copy this file to 'local.properties' and add your actual API keys
+# DO NOT commit local.properties to Git - it contains sensitive information
+
+## SDK location (Update this to your Android SDK path)
+sdk.dir=C\:\\Users\\YourUsername\\AppData\\Local\\Android\\Sdk
+
+## API Keys - Replace with your actual keys
+
+# Edamam Food Database API (Optional - for enhanced nutrition data)
+# Get from: https://developer.edamam.com/food-database-api
+EDAMAM_APP_ID=your_edamam_app_id_here
+EDAMAM_APP_KEY=your_edamam_app_key_here
+
+# Google Maps API (Optional - for restaurant locations)
+# Get from: https://console.cloud.google.com/ -> APIs & Services -> Credentials
+MAPS_API_KEY=your_google_maps_api_key_here
+
+# Google Fit API (Optional - for fitness integration)
+# OAuth is configured through google-services.json, no key needed here
+
+## Example values (don't use these in production):
+# EDAMAM_APP_ID=12345678
+# EDAMAM_APP_KEY=abcdef1234567890abcdef1234567890
+# MAPS_API_KEY=AIzaSyExample_1234567890_Example_Key
+
+## Notes:
+# - Firebase configuration goes in app/google-services.json (required)
+# - OpenFoodFacts API is free and doesn't need a key
+# - All APIs except Firebase are optional for basic functionality
